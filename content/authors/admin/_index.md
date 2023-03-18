@@ -1,47 +1,46 @@
 ---
 # Display name
-title: Alice Wu 吳恩達
+title: dvgandich
 
 # Full name (for SEO)
-first_name: Alice
-last_name: Wu
+first_name: Darya
+last_name: Gandich
 
 # Status emoji
 status:
-  icon: ☕️
-
+  icon: 🍸
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: The best student of the best university
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: RUDN University
+    url: https://www.rudn.ru/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: I like to do what I relax from and what benefits others
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Programming
+  - Graphic Design
+  - Travelling
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: Business Informatics
+      institution: RUDN university
+      year: 2022
+    - course: Graphic Design
+      institution: Skillbox
+      year: 2023
+    - course: Secondary education
+      institution: School №5, Lobnya
+      year: 2010
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -79,6 +78,5 @@ email: ''
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Daria Gandich is a student of the Peoples' Friendship University of Russia. She studies programming, is interested in graphic design, loves interesting books and delicious food, is happy to have a great time on a little trip with a group of friends
 {style="text-align: justify;"}
